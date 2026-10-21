@@ -1,5 +1,8 @@
 {
   "cpp": [
     "leetcode/1929-concatenation-of-array"
+  ],
+  "javascript": [
+    "leetcode/0412-fizz-buzz"
   ]
 }

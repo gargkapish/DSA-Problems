@@ -3,6 +3,13 @@
     "leetcode/1929-concatenation-of-array"
   ],
   "Simulation": [
-    "leetcode/1929-concatenation-of-array"
+    "leetcode/1929-concatenation-of-array",
+    "leetcode/0412-fizz-buzz"
+  ],
+  "Math": [
+    "leetcode/0412-fizz-buzz"
+  ],
+  "String": [
+    "leetcode/0412-fizz-buzz"
   ]
 }

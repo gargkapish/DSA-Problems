@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "412",
+  "frontendId": "412",
+  "title": "Fizz Buzz",
+  "slug": "fizz-buzz",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "companyTags": [],
+  "language": "javascript",
+  "runtime": "0 ms",
+  "memory": "56.3 MB",
+  "submissionId": "2178244008",
+  "acceptedAt": "2026-10-21T18:15:19.345Z",
+  "updatedAt": "2026-10-21T18:15:20.346Z",
+  "url": "https://leetcode.com/problems/fizz-buzz/",
+  "version": 1
+}

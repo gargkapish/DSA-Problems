@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**1** problems solved — 1 Easy · 0 Medium · 0 Hard
+**2** problems solved — 2 Easy · 0 Medium · 0 Hard
 
 ## Contents
 
@@ -14,14 +14,16 @@
 
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy | Math, String, Simulation |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | Array, Simulation |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Math, String, Simulation |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Array, Simulation |
 
 ### Medium (0)
@@ -44,11 +46,30 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Simulation (1)</summary>
+<summary>Math (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Simulation (2)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>String (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy |
 
 </details>
 
@@ -63,8 +84,18 @@ _No problems solved yet._
 
 </details>
 
+<details>
+<summary>javascript (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy |
+
+</details>
+
 ## Recently Solved
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy | 2026-10-21 |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | 2026-10-19 |

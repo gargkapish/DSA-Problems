@@ -11,5 +11,19 @@
     ],
     "language": "cpp",
     "acceptedAt": "2026-10-19T07:20:02.027Z"
+  },
+  {
+    "folderId": "leetcode/0412-fizz-buzz",
+    "frontendId": "412",
+    "title": "Fizz Buzz",
+    "slug": "fizz-buzz",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "language": "javascript",
+    "acceptedAt": "2026-10-21T18:15:19.345Z"
   }
 ]
