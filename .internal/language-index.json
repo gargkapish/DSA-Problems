@@ -3,6 +3,7 @@
     "leetcode/1929-concatenation-of-array"
   ],
   "javascript": [
-    "leetcode/0412-fizz-buzz"
+    "leetcode/0412-fizz-buzz",
+    "leetcode/0344-reverse-string"
   ]
 }

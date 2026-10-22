@@ -1,6 +1,7 @@
 {
   "leetcode": [
     "leetcode/1929-concatenation-of-array",
-    "leetcode/0412-fizz-buzz"
+    "leetcode/0412-fizz-buzz",
+    "leetcode/0344-reverse-string"
   ]
 }

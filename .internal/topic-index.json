@@ -10,6 +10,10 @@
     "leetcode/0412-fizz-buzz"
   ],
   "String": [
-    "leetcode/0412-fizz-buzz"
+    "leetcode/0412-fizz-buzz",
+    "leetcode/0344-reverse-string"
+  ],
+  "Two Pointers": [
+    "leetcode/0344-reverse-string"
   ]
 }
