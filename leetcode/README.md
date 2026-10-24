@@ -110,6 +110,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy | 2026-10-24 |
 | 0344 | [Reverse String](0344-reverse-string/README.md) | Easy | 2026-10-22 |
-| 0412 | [Fizz Buzz](0412-fizz-buzz/README.md) | Easy | 2026-10-21 |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/README.md) | Easy | 2026-10-19 |

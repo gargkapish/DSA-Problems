@@ -7,8 +7,8 @@
 | Field | Value |
 | --- | --- |
 | Runtime | 0 ms |
-| Memory | 56.3 MB |
-| Submission Date | 2026-10-21T18:15:19.345Z |
+| Memory | 58 MB |
+| Submission Date | 2026-10-24T09:58:00.318Z |
 | Platform | leetcode |
 
 ## Problem Statement

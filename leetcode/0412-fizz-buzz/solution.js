@@ -1,5 +1,5 @@
 // Runtime: 0 ms
-// Memory: 56.3 MB
+// Memory: 58 MB
 
 /**
  * @param {number} n
